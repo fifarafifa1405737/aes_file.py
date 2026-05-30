@@ -1,0 +1,4 @@
+Nama : Rafifa
+NIM : 105841100924
+Mata Kuliah : Kriptografi
+Pesan Rahasia : Belajar AES menggunakan Python
